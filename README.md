@@ -124,5 +124,4 @@ Passionate about data visualization, time series modeling, and translating numbe
 
 
 
-Just tell me!
 
