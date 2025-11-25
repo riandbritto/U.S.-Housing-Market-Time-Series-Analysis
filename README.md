@@ -116,21 +116,6 @@ All visuals are implemented programmatically using Python and Seaborn.
 └── analysis_report.pdf  # Final written analysis (from your assignment)
 ```
 
----
-
-## 🚀 **Next Steps / Future Enhancements**
-
-* Add **ARIMA/SARIMA forecasting**
-* Include **seasonality decomposition**
-* Build an interactive dashboard (Plotly/Power BI)
-* Expand dataset to include:
-
-  * Housing inventory
-  * Rental vacancy rates
-  * Construction costs
-
----
-
 ## 🙌 **About the Author**
 
 **Rian Renold Dbritto**
